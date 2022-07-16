@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F1L1Pv2
 - 👀 I’m interested in ... Programing
-- 🌱 I’m currently learning ... Pythond thats kind of stuff
+- 🌱 I’m currently learning ... Python thats kind of stuff
 - 📫 How to reach me ... `Discord` F1L1P#6528
 
 <!---
