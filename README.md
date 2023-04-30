@@ -3,7 +3,7 @@ Hi My name is Philip
 
 * 🌍  I'm live in Poland
 * ✉️  You can contact me at [filipscave@gmail.com](filipscave@gmail.com)
-* 🚀  I'm currently working @ [Moveit](http://getmoveit.app/)
+* 🚀  I'm currently working @[Moveit](http://getmoveit.app/)
 * 🧠  I'm learning Haskell
 
 <!---
