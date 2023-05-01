@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### If you want to support me
-<a href="https://www.buymeacoffee.com/F1L1Pv2"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/F1L1P"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
