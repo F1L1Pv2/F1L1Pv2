@@ -1,6 +1,8 @@
 Hi My name is Philip
 --------------------
 
+<img src="https://readme-animation-f1-l1-pv2.vercel.app/logo.svg"/>
+
 * 🌍  I live in Poland
 * ✉️  You can contact me at [filipscave@gmail.com](filipscave@gmail.com)
 * 🚀  I'm currently working @[Moveit](http://getmoveit.app/)
