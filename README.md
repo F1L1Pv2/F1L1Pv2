@@ -1,17 +1,6 @@
-Hi My name is Philip
---------------------
-
 <img src="https://readme-animation-f1-l1-pv2.vercel.app/logo.svg"/>
 
-* 🌍  I live in Poland
-* ✉️  You can contact me at [filipscave@gmail.com](filipscave@gmail.com)
-* 🚀  I'm currently working on [ModexOS](http://github.com/F1L1Pv2/ModexOS)
-* 🧠  I'm learning whatever catches my interest
-
-<!---
-F1L1Pv2/F1L1Pv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contact me at [filipscave@gmail.com](filipscave@gmail.com) or via discord `f1l1p`
 
 ### Skills
 
